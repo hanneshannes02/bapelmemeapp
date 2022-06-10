@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {} from 'react'; /* useState war drinnen in {} */
 import styles from "./App.module.css";
 import Image from "/home/dev/bapelmemeapp/src/app/Images/IT Bild.jpg";
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
